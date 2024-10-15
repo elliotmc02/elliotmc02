@@ -1,1 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotmc02&layout=compact&theme=vision-friendly-dark)](https://github.com/elliotmc02/github-readme-stats)
+### Hi, I'm Elliot
+
+- 👨‍💻 I enjoy learning new technologies
+- 📚 I’m learning Python, Go and Vue.js at the moment
+- 🔍 Currently looking for a job in web development
